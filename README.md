@@ -345,7 +345,7 @@ Rafi Uddin
 
 Student ID: 2022-1-60-037
 Email: 2022-1-60-037@std.ewubd.edu
-GitHub: https://github.com/rafiuddin/CSE406-Lab02
+GitHub: https://github.com/iamiot15/CSE406
 
 
 📊 Project Statistics
